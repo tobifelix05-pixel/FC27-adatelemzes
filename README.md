@@ -22,3 +22,11 @@ Kezdő szintű Python-adatelemzési szorgalmi projekt. 5 kérdés, Pandas, NumPy
 
 ## Megjegyzés
 Az adatbázis nem része a ZIP-nek, mert a futtatás során az eredeti forrásból töltődik le. Az eredmények és grafikonok a notebook futtatása után jelennek meg.
+## Futtatás Google Colabban
+
+[Open in Google Colab](https://colab.research.google.com/github/tobifelix05-pixel/FC27-adatelemzes/blob/main/FC27_elemzes.ipynb)
+
+A projekt böngészőből, telepítés nélkül
+futtatható Google Colabban.
+A megnyitás után válaszd a
+Runtime → Run all lehetőséget.
